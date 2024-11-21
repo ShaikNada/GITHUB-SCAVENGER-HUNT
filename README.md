@@ -1,7 +1,8 @@
 # GITHUB-SCAVENGER-HUNT
-You are a coder, working late into the night on a new project. Suddenly, something strange happens. Your code begins to come to life, twisting and shifting as if it has a mind of its own. Before you know it, the code manifests into a monstrous, monstrous being—a terrifying Code Monster.
+You’re a programmer, working late at night, trying to fix a bug in your code. The room is quiet, except for the soft hum of your laptop and a few empty coffee cups scattered around. As you reach for your mouse, you accidentally knock over your coffee mug, spilling it all over your laptop. The screen flickers, buzzing loudly, and before you can react, a bright white light flashes from the screen.
 
-The monster is relentless and is determined to destroy everything you've worked on. It hunts you down through your files, growing more powerful the longer you struggle. The only way to survive is to escape. But the path ahead is perilous, filled with coding challenges that only a skilled programmer can navigate. The Code Monster is right behind you, and each choice you make could be your last.
+In a flash, you feel yourself being sucked into the laptop. Your body breaks apart into pixels, and when everything stops spinning, you’re no longer at your desk. You’re inside your laptop—standing in a strange world made of glowing code and digital objects. The ground feels like a keyboard, and windows and lines of code float around you.
 
-# Your Mission:
-You must race through the levels of your GitHub repository, solving coding puzzles, choosing the right paths, and using Git commands to unlock your escape route. With each passing level, you will face increasingly difficult challenges, and the Code Monster is getting closer. Can you outrun it?
+Suddenly, you hear a growl. The Bug, a terrifying creature made of broken code, appears and starts chasing you. It’s after you.
+
+To escape and return to the real world, you must find your way through this digital world, avoid glitches and pop-ups, and locate your workplace’s file system to delete the corrupted file causing all of this. The Bug is getting closer, and time is running out.
